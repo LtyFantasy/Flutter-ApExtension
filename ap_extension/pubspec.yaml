@@ -1,8 +1,7 @@
 name: ap_extension
-description: A new Flutter package project.
+description: AP Extension.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/LtyFantasy/Flutter-ApExtension
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
